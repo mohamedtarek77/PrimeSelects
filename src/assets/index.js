@@ -19,7 +19,7 @@ import cook from "./cook.jpg";
 import hydro from "./hydro.PNG";
 import amazon from "./amazon.png";
 import tarek from "./tarek.PNG";
-import saferBrand from "./saferBrand.png";
+import saferBrand from "./saferBrand.PNG";
 
 // import colorLogoNoBackground from "./Color logo - no background.svg"
 // import colorLogoNoBackground from "./Color logo - no background.svg"
